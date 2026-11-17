@@ -8,6 +8,13 @@ Dreamweaver-style click-to-edit design, live browser preview, image editor, link
 
 <p align="center">by <a href="https://www.pawanmall.in/">Pawan Mall</a> · <a href="https://www.webdevservices.in/">webdevservices.in</a></p>
 
+<p align="center">
+  <a href="https://github.com/MrPawanMall/pm-visualforge/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/MrPawanMall/pm-visualforge?label=release"></a>
+  <a href="https://open-vsx.org/extension/pawanmall/pm-visualforge"><img alt="Open VSX" src="https://img.shields.io/open-vsx/v/pawanmall/pm-visualforge?label=Open%20VSX"></a>
+  <a href="https://open-vsx.org/extension/pawanmall/pm-visualforge"><img alt="Open VSX downloads" src="https://img.shields.io/open-vsx/dt/pawanmall/pm-visualforge?label=downloads"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
+</p>
+
 ---
 
 ## ⬇️ Download & install
@@ -16,7 +23,7 @@ Dreamweaver-style click-to-edit design, live browser preview, image editor, link
 
 - **VS Code / Antigravity / Cursor / Windsurf:** Extensions view → `⋯` menu → **Install from VSIX…** → pick the downloaded file.
 - **Command line:** `code --install-extension pm-visualforge-1.0.0.vsix`
-- **Open VSX:** search for **PM VisualForge** in VSCodium, Antigravity or any Open VSX-based editor.
+- **Open VSX:** [open-vsx.org/extension/pawanmall/pm-visualforge](https://open-vsx.org/extension/pawanmall/pm-visualforge). Search for **PM VisualForge** in VSCodium, Antigravity or any Open VSX-based editor.
 
 > This repository holds the documentation and release builds only.
 
